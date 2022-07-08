@@ -1,3 +1,6 @@
+## 1.0.3
+* [dominoes] Fixed sizing issue.
+
 ## 1.0.2
 * [all] A help icon now gives you helpful information on how to use each sheet.
 * [yahtzee] Enclosed the remaining items from the "of a kind" area in a circle. This will make it easier to press.
