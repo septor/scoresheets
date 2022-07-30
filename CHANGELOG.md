@@ -1,3 +1,20 @@
+## 1.0.8
+* [main] Restylized the side menu. It'll be less ackward after more games are added. An icon to the left indicates the type of game.
+* [all] Increased the text size of "high score" to increase readability.
+* [all] If your current score is lower than your high score, you will now be alerted before saving it (except clue).
+* [five crowns] Fixed an issue with the score entering overlay.
+* [clue] Increased the padding around item tiles, reducing wasted screen space.
+* [clue] Added win rate to clue in place of a high score. Finish your games by tapping the hand icon.
+* [yahtzee] Color scheme has been tweaked. Upper and lower sections now have a unique color scheme.
+
+## 1.0.7
+* [clue] Carded rooms removed. Long live suspicious items! (long press a person/place/thing to flag it)
+* [five crowns] Rewrote how the scores are added.
+
+## 1.0.6
+* [all] You can now save your high scores for each game ~~(minus clue)~~ by long pressing the total score indicator. Access the scores from the menu.
+* [five crowns] Five Crowns card game added, first draft.
+
 ## 1.0.5
 * [yahtzee] Fixed overflow issue on "three of a kind remaining" selection.
 * [yahtzee] Total score look has been reworked, it's now more visible.
